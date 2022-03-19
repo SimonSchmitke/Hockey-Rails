@@ -17,8 +17,4 @@ class Game
         
     end   
 
-    def home_team_win_pct_1yr
-        # Calculate the number of wins by the home team, divided by number of wins by away team.
-
-    end
 end
